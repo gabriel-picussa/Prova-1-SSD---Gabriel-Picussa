@@ -1,4 +1,4 @@
-# **README Prova 1 – Sistema de Suporte à Decisão**
+# **README MVP - PSP3**
 ## **Tema:** **Detecção de Ataques Cibernéticos por Machine Learning**  
 **Aluno(a):** *Gabriel Picussa Amorim (211043398)*  
 **Professor:** *Dr. André Luiz Marques Serrano*  
